@@ -22,5 +22,3 @@ Put them contents of `theme.lua` in `~/.config/tym/theme.lua`
 ## Thanks to
 
 - [ThatOneCalculator](https://github.com/thatonecalculator)
-
-    - Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
