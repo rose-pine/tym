@@ -13,7 +13,7 @@
 
 ## Usage
 
-Put them contents of `theme.lua` in `~/.config/tym/theme.lua`
+Put the contents of `theme.lua` in `~/.config/tym/theme.lua`
 
 ## Gallery
 
